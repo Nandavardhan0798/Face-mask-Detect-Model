@@ -19,7 +19,7 @@ st.write("Upload an image and check if a face mask is detected.")
 # ✅ Load model
 @st.cache_resource
 def load_face_mask_model():
-    model = load_model("face_mask.h5")  # Make sure this model file exists
+    model = load_model("face_mask_model.h5")  # Make sure this model file exists
     return model
 
 model = load_face_mask_model()
