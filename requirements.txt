@@ -1,0 +1,7 @@
+streamlit == 1.47.0
+tensorflow == 2.18.0
+opencv-python == 4.12.0
+matplotlib: 3.10.0
+numpy == 2.0.2
+Pillow (PIL) == 11.2.1
+scikit-learn == 1.6.1
